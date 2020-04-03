@@ -1,8 +1,4 @@
-# MovieGuide
-### 🚧 Refactoring in progress 👷‍♀️⛏👷🔧️👷🔧 🚧
-
-- Comments and new issues are welcome. 👍 
-- Currently not accepting external PRs that touch on the app's architecture and features. 🛑 
+# MovieGuide (forked repo for Netflix exercise)
 
 [![Build Status](https://app.bitrise.io/app/e74daa103a89eb3f/status.svg?token=cNHddSJnkUmE_p7ZA9eruQ&branch=master)](https://app.bitrise.io/app/e74daa103a89eb3f)
 
